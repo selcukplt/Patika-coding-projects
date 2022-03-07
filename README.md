@@ -1,1 +1,1 @@
-# Patika-coding-projects
+# Patika-data-science-projects
